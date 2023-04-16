@@ -10,6 +10,6 @@ Finally, We evaluated the performance of our model using metrics such as accurac
 By accurately classifying disaster tweets as real or fake, we can help prevent the spread of false information during disasters and ensure that accurate information reaches the people who need it. This project demonstrates the use of machine learning in solving real-world problems, and can be applied to other industries and domains that require accurate classification of text data.
 
 **Tools:** <br /> Programming language: Python <br />
-            Data preprocessing and analysis libraries: pandas, NumPy, scikit-learn and keras <br />
+            Data preprocessing and analysis libraries: Pandas, NumPy, scikit-learn and keras <br />
             Natural language processing libraries: Tokenizer, CountVectorizer and TfidfVectorizer <br />
             Machine learning algorithms: Logistic Regression
